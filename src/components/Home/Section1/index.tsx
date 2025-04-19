@@ -29,7 +29,7 @@ const Section1: FC = () => {
               <div className={cx(classes.coverDes, 'contentMaxWidth')}>
                 <h1>{tHome('TITILE-SECTION-1')}</h1>
                 <Link href={'/products/new-product'}>
-                  {tHome('FIND-OUT-MORE')}
+                  {tHome('FIND-OUT-MORE1111111111111')}
                 </Link>
                 <div className={classes.coverArrow}>
                   <div className={classes.wrapArrow}>
