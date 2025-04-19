@@ -27,7 +27,7 @@ const Section1: FC = () => {
           {isDesktop ? (
             <div className={classes.description}>
               <div className={cx(classes.coverDes, 'contentMaxWidth')}>
-                <h1>{tHome('TITILE-SECTION-1')}</h1>
+                <h1>{tHome('TITILE-SECTION-111111111111111')}</h1>
                 <Link href={'/products/new-product'}>
                   {tHome('FIND-OUT-MORE1111111111111')}
                 </Link>
